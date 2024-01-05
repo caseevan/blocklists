@@ -3,6 +3,7 @@ facebook.net
 fb.me
 fb.com
 instagram.com
+cdninstagram.com
 threads.net
 fbsbx.com
 tfbnw.net
