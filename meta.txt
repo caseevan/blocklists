@@ -1,0 +1,15 @@
+(\.|^)facebook\.com$
+(\.|^)facebook\.net$
+(\.|^)instagram\.com$
+(\.|^)fb\.me$
+(\.|^)fb\.com$
+(\.|^)fbsbx\.com$
+(\.|^)tfbnw\.net$
+(\.|^)fbcdn\.net$
+(\.|^)fbcdn\.com$
+(\.|^)online-metrix\.net$
+facebook-web-clients.appspot.com
+connect.facebook.net.edgekey.net
+fbcdn-profile-a.akamaihd.net
+instagramstatic-a.akamaihd.net
+instagramstatic-a.akamaihd.net.edgesuite.net
